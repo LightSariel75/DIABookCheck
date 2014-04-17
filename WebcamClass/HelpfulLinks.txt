@@ -8,3 +8,6 @@ Also the link I used with the code and an explanation of it:
 Oh and I found this youtube video BUT i have not watched it yet.
 	It deals with taking a picture and about qr codes with webcam:
 	https://www.youtube.com/watch?v=JLUJWgveEco
+
+This is the link for the software download for the USB webcam:
+	http://www.logitech.com/en-us/support/hd-webcam-c525
