@@ -1,0 +1,10 @@
+In your library class path: remember to add opencv.
+	-here is the link to set it up on Eclipse:
+		http://docs.opencv.org/trunk/doc/tutorials/introduction/java_eclipse/java_eclipse.html
+		
+Also the link I used with the code and an explanation of it:
+	http://www.codeproject.com/Tips/719878/How-to-Use-OpenCV-with-Java-under-Eclipse-IDE
+	
+Oh and I found this youtube video BUT i have not watched it yet.
+	It deals with taking a picture and about qr codes with webcam:
+	https://www.youtube.com/watch?v=JLUJWgveEco
