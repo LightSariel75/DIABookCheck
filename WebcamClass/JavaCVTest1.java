@@ -9,7 +9,7 @@ public class JavaCVTest1 {
 		//opens up the native library
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 		//goes to first web camera device id
-    	VideoCapture camera = new VideoCapture(0); 
+    	VideoCapture camera = new VideoCapture(1); 
     	
     	//checks to see if there is a device it can use
     	if(!camera.isOpened()){

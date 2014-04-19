@@ -5,9 +5,10 @@
 	<classpathentry exported="true" kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Ecilpse/JDBC/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Ecilpse/zxing-core-1-7.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Ecilpse/zxing-j2se-1-7.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files (x86)/Ecilpse/qrgen-1-0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexandra/Documents/GitHub/DIABookCheck/zxing-core-1-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexandra/Documents/GitHub/DIABookCheck/zxing-j2se-1-7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexandra/Documents/GitHub/DIABookCheck/mysql-connector-java-5.1.29/mysql-connector-java-5.1.29-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexandra/Documents/GitHub/DIABookCheck/opencv-248.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alexandra/Documents/GitHub/DIABookCheck/qrgen-1-0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
